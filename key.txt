@@ -1,0 +1,13 @@
+DEEPSEEK_API_KEY=""
+SERPER_API_KEY=""
+
+ZoomEmail=""
+# NOTE: ZoomAccountID is required for Server-to-Server OAuth
+# Get it from Zoom Marketplace > Your App > App Credentials
+ZoomAccountID=""
+ZoomClientID=""
+ZoomClientSecret=""
+NOTION_API_KEY=""
+GMAIL_EMAIL=""
+GMAIL_APP_PASSWORD=""
+GOOGLE_MAP_API_KEY=""
